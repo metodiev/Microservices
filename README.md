@@ -20,9 +20,9 @@ A curated list of the most commonly asked Microservices interview questions, ran
 10. Resilience and Reliability
 11. Testing
 12. Event-Driven Architecture
-13. Cloud & Kubernetes
-14. Java & Spring Boot
-15. Advanced & Difficult Questions
+13. Cloud and Kubernetes
+14. Java and Spring Boot
+15. Advanced and Difficult Questions
 
 
 
